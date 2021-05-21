@@ -1,0 +1,451 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "name": "Aqua Morty",
+          "status": "unknown",
+          "species": "Humanoid",
+          "type": "Fish-Person",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          },
+          "episode": [
+            {
+              "name": "Close Rick-counters of the Rick Kind"
+            },
+            {
+              "name": "The Rickshank Rickdemption"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        },
+        {
+          "name": "Aqua Rick",
+          "status": "unknown",
+          "species": "Humanoid",
+          "type": "Fish-Person",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          },
+          "episode": [
+            {
+              "name": "Close Rick-counters of the Rick Kind"
+            },
+            {
+              "name": "The Rickshank Rickdemption"
+            },
+            {
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+        },
+        {
+          "name": "Arcade Alien",
+          "status": "unknown",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Immortality Field Resort"
+          },
+          "episode": [
+            {
+              "name": "Mortynight Run"
+            },
+            {
+              "name": "Interdimensional Cable 2: Tempting Fate"
+            },
+            {
+              "name": "The Wedding Squanchers"
+            },
+            {
+              "name": "Vindicators 3: The Return of Worldender"
+            },
+            {
+              "name": "The Whirly Dirly Conspiracy"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+        },
+        {
+          "name": "Armagheadon",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Cromulon",
+          "gender": "Male",
+          "origin": {
+            "name": "Signus 5 Expanse"
+          },
+          "location": {
+            "name": "Signus 5 Expanse"
+          },
+          "episode": [
+            {
+              "name": "Get Schwifty"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+        },
+        {
+          "name": "Armothy",
+          "status": "Dead",
+          "species": "unknown",
+          "type": "Self-aware arm",
+          "gender": "Male",
+          "origin": {
+            "name": "Post-Apocalyptic Earth"
+          },
+          "location": {
+            "name": "Post-Apocalyptic Earth"
+          },
+          "episode": [
+            {
+              "name": "Rickmancing the Stone"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
+        },
+        {
+          "name": "Arthricia",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Cat-Person",
+          "gender": "Female",
+          "origin": {
+            "name": "Purge Planet"
+          },
+          "location": {
+            "name": "Purge Planet"
+          },
+          "episode": [
+            {
+              "name": "Look Who's Purging Now"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
+        },
+        {
+          "name": "Artist Morty",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          },
+          "episode": [
+            {
+              "name": "Close Rick-counters of the Rick Kind"
+            },
+            {
+              "name": "The Ricklantis Mixup"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg"
+        },
+        {
+          "name": "Attila Starwar",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Interdimensional Cable"
+          },
+          "episode": [
+            {
+              "name": "Rixty Minutes"
+            },
+            {
+              "name": "Mortynight Run"
+            },
+            {
+              "name": "The Ricks Must Be Crazy"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+        },
+        {
+          "name": "Baby Legs",
+          "status": "Alive",
+          "species": "Human",
+          "type": "Human with baby legs",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Interdimensional Cable"
+          },
+          "episode": [
+            {
+              "name": "Rixty Minutes"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg"
+        },
+        {
+          "name": "Baby Poopybutthole",
+          "status": "Alive",
+          "species": "Poopybutthole",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "unknown"
+          },
+          "episode": [
+            {
+              "name": "The Rickchurian Mortydate"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg"
+        },
+        {
+          "name": "Baby Wizard",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "episode": [
+            {
+              "name": "Total Rickall"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg"
+        },
+        {
+          "name": "Bearded Lady",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Female",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "episode": [
+            {
+              "name": "Total Rickall"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg"
+        },
+        {
+          "name": "Beebo",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "name": "Venzenulon 7"
+          },
+          "location": {
+            "name": "Venzenulon 7"
+          },
+          "episode": [
+            {
+              "name": "Morty's Mind Blowers"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg"
+        },
+        {
+          "name": "Benjamin",
+          "status": "Alive",
+          "species": "Poopybutthole",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Interdimensional Cable"
+          },
+          "episode": [
+            {
+              "name": "Rixty Minutes"
+            },
+            {
+              "name": "Mortynight Run"
+            },
+            {
+              "name": "The Ricks Must Be Crazy"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+        },
+        {
+          "name": "Bepisian",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Bepisian",
+          "gender": "unknown",
+          "origin": {
+            "name": "Bepis 9"
+          },
+          "location": {
+            "name": "Bepis 9"
+          },
+          "episode": [
+            {
+              "name": "Pilot"
+            },
+            {
+              "name": "Ricksy Business"
+            },
+            {
+              "name": "Interdimensional Cable 2: Tempting Fate"
+            },
+            {
+              "name": "Vindicators 3: The Return of Worldender"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+        },
+        {
+          "name": "Beta-Seven",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Hivemind",
+          "gender": "unknown",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "unknown"
+          },
+          "episode": [
+            {
+              "name": "Auto Erotic Assimilation"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg"
+        },
+        {
+          "name": "Beth Sanchez",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "name": "Earth (C-500A)"
+          },
+          "location": {
+            "name": "Earth (C-500A)"
+          },
+          "episode": [
+            {
+              "name": "Rixty Minutes"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "name": "Earth (C-137)"
+          },
+          "episode": [
+            {
+              "name": "Pilot"
+            },
+            {
+              "name": "Lawnmower Dog"
+            },
+            {
+              "name": "Anatomy Park"
+            },
+            {
+              "name": "M. Night Shaym-Aliens!"
+            },
+            {
+              "name": "Meeseeks and Destroy"
+            },
+            {
+              "name": "Rick Potion #9"
+            },
+            {
+              "name": "The Rickshank Rickdemption"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+        },
+        {
+          "name": "Beth Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "name": "Earth (Evil Rick's Target Dimension)"
+          },
+          "location": {
+            "name": "Earth (Evil Rick's Target Dimension)"
+          },
+          "episode": [
+            {
+              "name": "Close Rick-counters of the Rick Kind"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg"
+        },
+        {
+          "name": "Beth's Mytholog",
+          "status": "Dead",
+          "species": "Mythological Creature",
+          "type": "Mytholog",
+          "gender": "Female",
+          "origin": {
+            "name": "Nuptia 4"
+          },
+          "location": {
+            "name": "Nuptia 4"
+          },
+          "episode": [
+            {
+              "name": "Big Trouble in Little Sanchez"
+            }
+          ],
+          "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg"
+        }
+      ]
+    }
+  }
+}
